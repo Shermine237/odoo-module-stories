@@ -4,6 +4,5 @@
     'author': 'Charlie Rostant YOSSA',
     'Website': 'sherminemodule.sample',
     'summary': 'Just a litle module',
-    'description': 'Made just for test pipeline',
-    'licence': 'AGPL-3'
+    'description': 'Made just for test pipeline'
 }
